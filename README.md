@@ -1,3 +1,5 @@
+Link py : https://colab.research.google.com/drive/11NDgAeld9zpg32P2W4ekGw_xRSOpXwOn?usp=sharing
+
 # Klasifikasi Buah: Orange vs Grapefruit
 
 ## 1. Deskripsi Dataset
